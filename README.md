@@ -1,6 +1,6 @@
-### Hi there 👋
--🌱 Estudante de Ciência da Computação
--👤 Meu objetivo é se tornar FULL-STACK
+### Hi there, I'm Alex 👋
+- 🌱 Estudante de Ciência da Computação
+- 👤 Meu objetivo é se tornar FULL-STACK
 
  <div>
   <a href="https://github.com/alexRicc2">
