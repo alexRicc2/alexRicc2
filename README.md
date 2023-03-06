@@ -29,4 +29,3 @@
  
  ##
  
-  ![Snake animation](https://github.com/alexRicc2/alexRicc2/blob/output/github-contribution-grid-snake.svg)
