@@ -3,21 +3,9 @@
 - 👤 Meu objetivo é se tornar FULL-STACK
 - Blog dos projetos https://duo-blog.vercel.app/alex
 
- <div>
-  <a href="https://github.com/alexRicc2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexRicc2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexRicc2&layout=compact&langs_count=7&theme=midnight-purple"/>
- </div>
+
   
-  <br>
-  
-  <div style="display: inline_block">
-  <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg">
-  </div>
+
 
   ##
   
