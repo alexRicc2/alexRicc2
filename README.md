@@ -1,7 +1,6 @@
 ### Hi there, I'm Alex 👋
 - 🌱 Estudante de Ciência da Computação
 - 👤 Meu objetivo é se tornar FULL-STACK
-- Blog dos projetos https://duo-blog.vercel.app/alex
 
 
   
